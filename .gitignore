@@ -1,0 +1,4 @@
+ncui_demo*
+build/objects/
+Makefile
+.vscode/
