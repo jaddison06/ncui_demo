@@ -8,8 +8,8 @@ from platform import system
 
 COMPILER = 'gcc'
 PYTHON = 'python3'
-LIBS: dict[str, list[str]] = {'linux': ['SDL2', 'SDL2_ttf'], 'darwin': [], 'windows': []}
-DEBUG_DEFINES: dict[str, str] = {}
+LIBS: dict[str, list[str]] = {'Linux': ['SDL2', 'SDL2_ttf'], 'darwin': [], 'windows': []}
+DEBUG_DEFINES: dict[str, str] = {'NCUI_DEBUG': ''}
 EXECUTABLE = 'ncui_demo'
 SOURCE_EXTS = ['.c']
 HEADER_EXTS = ['.h']
