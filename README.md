@@ -1,5 +1,5 @@
 # ncui_demo
-Demo for the NerveCentre UI framework
+Demo for the NerveCentre UI framework (jaddison06/nervecentre)[https://github.com/jaddison06/nervecentre]
 
 ## Building
 Only ever built this on Linux, should be portable so uhhhh good luck
